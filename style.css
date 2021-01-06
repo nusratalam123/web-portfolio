@@ -16,7 +16,7 @@ p{
 }
 .half-width{
     width: 30%;
-    float: left;
+float: left;
     margin-left: 10%;
     padding-left: 4%;
 }
@@ -30,6 +30,9 @@ p{
         height: 400px;
         padding-bottom: 100px;
     }
+.half-width-single-experence{
+    width: 40%;
+}
 .link-button{
     text-decoration:none;
     background-image: linear-gradient(45deg, lightsalmon,tomato);
